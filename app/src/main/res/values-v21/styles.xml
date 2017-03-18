@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Play</string>
+    <string name="ListAnagram">List All Anagrams</string>
+    <string name="TheGuessingGame">The Guessing Game</string>
+
+    <string name="title_activity_main2">Word Play</string>
+    <string name="title_activity_main3">Word Play</string>
+</resources>
