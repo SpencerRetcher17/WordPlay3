@@ -1,4 +1,8 @@
 //*Created by sretcher
+//the app looks cool man
+//It looks like everything is in working order
+//I won a round
+//i'll try and commit
 
 package com.example.sretcher.wordplay3;
 
